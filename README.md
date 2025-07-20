@@ -13,7 +13,7 @@ A sleek, responsive pricing table with hover animations, layout transitions, and
 - Dark mode toggle for better accessibility
 
 ## 📸 Preview
-![preview](screenshot.png) <!-- optional image preview -->
+https://github.com/rohanKr-creator/pricing-table/blob/main/Screenshot%202025-07-20%20190218.png?raw=true
 
 ## 📂 How to Use
 1. Clone the repo:
